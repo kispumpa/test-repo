@@ -1,0 +1,16 @@
+<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register</title>
+</head>
+<body>
+
+<h1>Java labor</h1><br/>
+<form action="hello-servlet" method="get">
+    Neptun: <input type="text" name="neptun"><br>
+    <input type="submit" value="Jelentkezés">
+</form>
+
+</body>
+</html>
